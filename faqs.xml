@@ -11,4 +11,52 @@
     <question>Do I need a charger with my courtesy phone?</question>
     <answer>A charger is not mandatory, but you may request one when using a courtesy phone.</answer>
   </faq>
+  <faq>
+    <question>Why isn’t my phone under warranty?</question>
+    <answer>Your phone might not be under warranty if it’s beyond the warranty period or if it was damaged in a way not covered by the warranty.</answer>
+  </faq>
+  <faq>
+    <question>How long does a typical repair take?</question>
+    <answer>Most repairs take between 2 to 5 business days, depending on the complexity of the issue and parts availability.</answer>
+  </faq>
+  <faq>
+    <question>Can I track the status of my repair?</question>
+    <answer>Yes, you can check the status of your repair online using your service reference number provided at the time of booking.</answer>
+  </faq>
+  <faq>
+    <question>What if I need to cancel my repair?</question>
+    <answer>You can cancel your repair by contacting us at least 24 hours before the scheduled service date. Some fees may apply.</answer>
+  </faq>
+  <faq>
+    <question>Are your replacement parts original?</question>
+    <answer>We use high-quality replacement parts that are compatible with your device, though they may not be from the original manufacturer.</answer>
+  </faq>
+  <faq>
+    <question>Do you offer any warranty on repairs?</question>
+    <answer>Yes, we provide a 90-day warranty on all repairs. This covers any defects in parts and workmanship related to the repair.</answer>
+  </faq>
+  <faq>
+    <question>Can I get a quote for the repair cost before service?</question>
+    <answer>Yes, we offer free quotes. You can request a quote through our website or visit us in-store for a detailed assessment.</answer>
+  </faq>
+  <faq>
+    <question>What should I do if I find a problem after my repair?</question>
+    <answer>If you encounter any issues after your repair, please contact us within the warranty period for a follow-up service.</answer>
+  </faq>
+  <faq>
+    <question>Will my data be safe during the repair?</question>
+    <answer>We recommend backing up your data before the repair. While we take precautions, we cannot guarantee the safety of your data.</answer>
+  </faq>
+  <faq>
+    <question>Do you provide on-site repair services?</question>
+    <answer>Yes, on-site repairs are available for certain issues and locations. Please contact us to see if on-site service is an option for you.</answer>
+  </faq>
+  <faq>
+    <question>Can you repair water-damaged phones?</question>
+    <answer>We do repair water-damaged phones, but the success rate depends on the extent of the damage. We’ll assess the device and inform you of the possible outcomes.</answer>
+  </faq>
+  <faq>
+    <question>Do you offer any discounts for multiple repairs?</question>
+    <answer>Yes, we offer discounts on multiple repairs for the same device. Contact our support team for more details on our discount policy.</answer>
+  </faq>
 </faqs>
