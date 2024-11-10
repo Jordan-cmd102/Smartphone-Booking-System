@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Jordan-cmd102/Smartphone-Booking-System/static/css/main.ec57849d.css",
-    "main.js": "/Jordan-cmd102/Smartphone-Booking-System/static/js/main.a5e4e3f3.js",
-    "static/js/453.3c3c57d0.chunk.js": "/Jordan-cmd102/Smartphone-Booking-System/static/js/453.3c3c57d0.chunk.js",
-    "index.html": "/Jordan-cmd102/Smartphone-Booking-System/index.html",
-    "main.ec57849d.css.map": "/Jordan-cmd102/Smartphone-Booking-System/static/css/main.ec57849d.css.map",
-    "main.a5e4e3f3.js.map": "/Jordan-cmd102/Smartphone-Booking-System/static/js/main.a5e4e3f3.js.map",
-    "453.3c3c57d0.chunk.js.map": "/Jordan-cmd102/Smartphone-Booking-System/static/js/453.3c3c57d0.chunk.js.map"
+    "main.css": "/Jordan-cmd102/SmartPhone-Repair/static/css/main.ec57849d.css",
+    "main.js": "/Jordan-cmd102/SmartPhone-Repair/static/js/main.f8234b9e.js",
+    "static/js/453.3c3c57d0.chunk.js": "/Jordan-cmd102/SmartPhone-Repair/static/js/453.3c3c57d0.chunk.js",
+    "index.html": "/Jordan-cmd102/SmartPhone-Repair/index.html",
+    "main.ec57849d.css.map": "/Jordan-cmd102/SmartPhone-Repair/static/css/main.ec57849d.css.map",
+    "main.f8234b9e.js.map": "/Jordan-cmd102/SmartPhone-Repair/static/js/main.f8234b9e.js.map",
+    "453.3c3c57d0.chunk.js.map": "/Jordan-cmd102/SmartPhone-Repair/static/js/453.3c3c57d0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ec57849d.css",
-    "static/js/main.a5e4e3f3.js"
+    "static/js/main.f8234b9e.js"
   ]
 }
