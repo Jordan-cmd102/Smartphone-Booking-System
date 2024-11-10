@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Smartphone-Booking-System/static/css/main.9c979ab9.css",
+    "main.css": "/Smartphone-Booking-System/static/css/main.a10e160f.css",
     "main.js": "/Smartphone-Booking-System/static/js/main.69a5651c.js",
     "static/js/453.3c3c57d0.chunk.js": "/Smartphone-Booking-System/static/js/453.3c3c57d0.chunk.js",
     "index.html": "/Smartphone-Booking-System/index.html",
-    "main.9c979ab9.css.map": "/Smartphone-Booking-System/static/css/main.9c979ab9.css.map",
+    "main.a10e160f.css.map": "/Smartphone-Booking-System/static/css/main.a10e160f.css.map",
     "main.69a5651c.js.map": "/Smartphone-Booking-System/static/js/main.69a5651c.js.map",
     "453.3c3c57d0.chunk.js.map": "/Smartphone-Booking-System/static/js/453.3c3c57d0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9c979ab9.css",
+    "static/css/main.a10e160f.css",
     "static/js/main.69a5651c.js"
   ]
 }
